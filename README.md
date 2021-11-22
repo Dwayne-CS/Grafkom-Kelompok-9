@@ -97,50 +97,50 @@ lorem ipsum
         <tr>
             <td>4</td>
             <td>Pencahayaan</td>
-            <td>-td>
-            <td>-td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>5</td>
             <td>Interaksi Mouse</td>
-            <td>-td>
-            <td>-td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>6</td>
             <td>Interaksi Keyboard</td>
-            <td>-td>
-            <td>-td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>7</td>
             <td>Windowing</td>
-            <td>-td>
-            <td>-td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>8</td>
             <td>Perspektif</td>
-            <td>-td>
-            <td>-td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>9</td>
             <td>Fraktal</td>
-            <td>-td>
-            <td>-td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>10</td>
             <td>Tekstur</td>
-            <td>-td>
-            <td>-td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>11</td>
             <td>Lainnya</td>
-            <td>-td>
-            <td>-td>
+            <td>-</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
