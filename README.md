@@ -1,6 +1,6 @@
 # Grafkom-Kelompok-9
 > Project Grafika Komputer - KOM300
-## DANUSAN YUK?
+## DANUSAN YUK!
 
 
 ## Dibimbing oleh :
@@ -68,30 +68,83 @@ lorem ipsum
 ## Teknik Grafika Komputer yang Digunakan
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th>Teknik</th>
+            <th>Deskripsi</th>
+            <th>Contoh Ilustrasi</th>
+        </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Operating System</td>
-            <td colspan=3 style="text-align:center">Andorid Kitkat (4.4 SDK 19) or above</td>
+            <td>1</td>
+            <td>Object 2D</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
-            <td>Processor</td>
-            <td colspan=3 style="text-align:center">arm64-v8a Processor</td>
+            <td>2</td>
+            <td>Object 3D</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
-            <td>Memory</td>
-            <td colspan=3 style="text-align:center">1 GB or above</td>
+            <td>3</td>
+            <td>Transformasi</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
-            <td>Screen Resolution</td>
-            <td colspan=3 style="text-align:center">480x800 or above</td>
+            <td>4</td>
+            <td>Pencahayaan</td>
+            <td>-td>
+            <td>-td>
         </tr>
         <tr>
-            <td>Internet Access</td>
-            <td colspan=3 style="text-align:center">Required</td>
+            <td>5</td>
+            <td>Interaksi Mouse</td>
+            <td>-td>
+            <td>-td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Interaksi Keyboard</td>
+            <td>-td>
+            <td>-td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Windowing</td>
+            <td>-td>
+            <td>-td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Perspektif</td>
+            <td>-td>
+            <td>-td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Fraktal</td>
+            <td>-td>
+            <td>-td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Tekstur</td>
+            <td>-td>
+            <td>-td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Lainnya</td>
+            <td>-td>
+            <td>-td>
         </tr>
     </tbody>
 </table>
+
 
 ## Informasi Proyek
 <table>
