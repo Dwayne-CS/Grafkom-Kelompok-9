@@ -160,8 +160,8 @@ lorem ipsum
             <td colspan=3 style="text-align:center">https://ipb.link/grafkom-figma</td>
         </tr>
         <tr>
-            <td>Tech Stack</td>
-            <td Google Docs=3 style="text-align:center">https://docs.google.com/document/d/1GIjovGum5EWl7WD34hmRDhMJ7-q_CYF_6b49nMFBWRo/edit?usp=sharing</td>
+            <td>Google Docs</td>
+            <td colspan=3 style="text-align:center">https://docs.google.com/document/d/1GIjovGum5EWl7WD34hmRDhMJ7-q_CYF_6b49nMFBWRo/edit?usp=sharing</td>
         </tr>
     </tbody>
 </table>
