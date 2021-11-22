@@ -46,10 +46,15 @@
 </table>
 
 ## Deskripsi singkat produk
-lorem ipsum
+Ceritanya bermula dari mahasiswa semester pertama IPB University, panggil saja Rafly, yang ikut sebuah kepanitiaan acara. Acara yang ingin diadakan tinggal 2 minggu lagi tetapi dananya masih sangat kurang. Untuk memenuhi kurangnya dana tersebut, kadiv fundraising mengambil tindakan intruksi danusan untuk semua panitianya. Hanya saja ada suatu masalah, "CCR" gedung kuliah untuk mahasiswa tingkat pertama menjadi salah satu gedung yg sangat ketat aturannya, termasuk aturan tidak boleh danusan disana. Dengan demikian, Rafly harus melewati berbagai tantangan untuk bisa danusan di CCR. Ayo, bantu Rafly agar ia dapat danusan dengan lancar tanpa ketahuan!
 
 ## Latar Belakang
-lorem ipsum
+Latar belakang dari ide game "Danusan Yuk!" adalah berdasarkan pengalaman pribadi kelompok 9 Grafkom ketika menjadi staf Fundraising pada suatu kepanitian. Teman-teman yang tergabung dalam kepanitian sering melakukan danusan untuk tambahan pemasukan dana event. Dalam pengalaman danusan, banyak sekali tantangan yang harus dilakukan, seperti :
+1. Menghindari satpam CCR ketika sedang danusan, karena peraturan CCR dilarang berjualan di dalam gedung CCR
+2. Mencari waktu yang pas untuk danusan karena banyak saingan
+3. Menghindari dosen ketika berjualan di dalam kelas
+Berdasarkan pengalaman itu, maka kami memutuskan untuk membuat permainan yang berlatar lingkungan IPB University.
+
 ## Proses Pengembangan Produk
 lorem ipsum
 
@@ -57,7 +62,8 @@ lorem ipsum
 lorem ipsum
 
 ## Technology Stack yang Digunakan
-lorem ipsum
+[Link Terkait Stack yang digunakan](https://mixpanel.com/blog/what-is-a-technology-stack/)
+
 ## Teknik Grafika Komputer yang Digunakan
 <table>
     <thead>
