@@ -53,6 +53,7 @@ Latar belakang dari ide game "Danusan Yuk!" adalah berdasarkan pengalaman pribad
 1. Menghindari satpam CCR ketika sedang danusan, karena peraturan CCR dilarang berjualan di dalam gedung CCR
 2. Mencari waktu yang pas untuk danusan karena banyak saingan
 3. Menghindari dosen ketika berjualan di dalam kelas
+
 Berdasarkan pengalaman itu, maka kami memutuskan untuk membuat permainan yang berlatar lingkungan IPB University.
 
 ## Proses Pengembangan Produk
