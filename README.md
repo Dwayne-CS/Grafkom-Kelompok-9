@@ -60,7 +60,7 @@ Berdasarkan pengalaman itu, maka kami memutuskan untuk membuat permainan yang be
 lorem ipsum
 
 ## Screenshot Produk
- <img src="https://drive.google.com/file/d/1HOBzXJdoQy3WMVZLgoILP1_eddZZTu5j/view?usp=sharing" width="500" height="350" />
+ <img src="https://trello.com/c/3pVwBAyl/1-j" width="500" height="350" />
 
 ## Technology Stack yang Digunakan
 [Link Terkait Stack yang digunakan](https://mixpanel.com/blog/what-is-a-technology-stack/)
