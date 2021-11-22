@@ -152,16 +152,16 @@ lorem ipsum
     </thead>
     <tbody>
         <tr>
-            <td>Software</td>
-            <td colspan=3 style="text-align:center">VS Code, Android Studio</td>
+            <td>Github</td>
+            <td colspan=3 style="text-align:center">http://github.com/Dwayne-CS/Grafkom-Kelompok-9</td>
         </tr>
         <tr>
-            <td>Hardware</td>
-            <td colspan=3 style="text-align:center">Intel i5-6200U @2.30 GHz ; 8 GB DDR4 RAM : NVIDIA GeForce 930M</td>
+            <td>Figma</td>
+            <td colspan=3 style="text-align:center">https://ipb.link/grafkom-figma</td>
         </tr>
         <tr>
             <td>Tech Stack</td>
-            <td colspan=3 style="text-align:center">Flutter Framework with packages from https://pub.dev</td>
+            <td Google Docs=3 style="text-align:center">https://docs.google.com/document/d/1GIjovGum5EWl7WD34hmRDhMJ7-q_CYF_6b49nMFBWRo/edit?usp=sharing</td>
         </tr>
     </tbody>
 </table>
