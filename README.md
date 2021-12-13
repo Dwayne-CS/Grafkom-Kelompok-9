@@ -60,7 +60,7 @@ Berdasarkan pengalaman itu, maka kami memutuskan untuk membuat permainan yang be
 lorem ipsum
 
 ## Screenshot Produk
- <img src="https://github.com/Dwayne-CS/Grafkom-Kelompok-9/tree/main/screenshot/ss1" width="500" height="350">
+ <img src="https://github.com/Dwayne-CS/Grafkom-Kelompok-9/tree/main/screenshot/ss1.png" width="500" height="350">
 
 ## Technology Stack yang Digunakan
 [Link Terkait Stack yang digunakan](https://mixpanel.com/blog/what-is-a-technology-stack/)
