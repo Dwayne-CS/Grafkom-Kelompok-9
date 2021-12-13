@@ -87,14 +87,18 @@ lorem ipsum
         <tr>
             <td>2</td>
             <td>Object 3D</td>
-            <td>-</td>
-            <td>-</td>
+            <td>Environment dalam permainan
+</td>
+            <td>Level Gedung
+</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Transformasi</td>
-            <td>-</td>
-            <td>-</td>
+            <td>Pergerakan dalam permainan
+</td>
+            <td>Player, NPC berjalan dan memperindah tempat
+</td>
         </tr>
         <tr>
             <td>4</td>
@@ -105,14 +109,18 @@ lorem ipsum
         <tr>
             <td>5</td>
             <td>Interaksi Mouse</td>
-            <td>-</td>
-            <td>-</td>
+            <td>Pengendalian pemain dalam permainan
+</td>
+            <td>Melihat lingkungan sekitar
+</td>
         </tr>
         <tr>
             <td>6</td>
             <td>Interaksi Keyboard</td>
-            <td>-</td>
-            <td>-</td>
+            <td>Pengendalian pemain dalam permainan
+</td>
+            <td>Bergerak menjelajahi level
+</td>
         </tr>
         <tr>
             <td>7</td>
@@ -123,8 +131,10 @@ lorem ipsum
         <tr>
             <td>8</td>
             <td>Perspektif</td>
-            <td>-</td>
-            <td>-</td>
+            <td>Sudut pandang dalam permainan
+</td>
+            <td>First Person View
+</td>
         </tr>
         <tr>
             <td>9</td>
@@ -135,14 +145,9 @@ lorem ipsum
         <tr>
             <td>10</td>
             <td>Tekstur</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td>Lainnya</td>
-            <td>-</td>
-            <td>-</td>
+            <td>Gambar aesthetic dalam level
+</td>
+            <td>Ubin pada lantai, rumput, tekstur tembok, dll</td>
         </tr>
     </tbody>
 </table>
