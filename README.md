@@ -79,8 +79,10 @@ lorem ipsum
         <tr>
             <td>1</td>
             <td>Object 2D</td>
-            <td>-</td>
-            <td>-</td>
+            <td>UI dalam permainan 
+</td>
+            <td>Crosshair & objective
+</td>
         </tr>
         <tr>
             <td>2</td>
