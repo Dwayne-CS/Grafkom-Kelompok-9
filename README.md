@@ -57,7 +57,7 @@ Latar belakang dari ide game "Danusan Yuk!" adalah berdasarkan pengalaman pribad
 Berdasarkan pengalaman itu, maka kami memutuskan untuk membuat permainan yang berlatar lingkungan IPB University.
 
 ## Proses Pengembangan Produk
-lorem ipsum
+Pada pengembangan games kami, kami menerapkan materi perspektif dan transformasi yang telah diajarkan saat kuliah. Dimana sudut pandang games ini adalah first person view yang berarti juga memerhatikan bahwa semakin jauh suatu objek maka akan semakin kecil kelihatannya. Untuk transformasi, cukup banyak hal yang kita terapkan dengan teknik ini. Dari pembuatan bangunan dan aset lainnya, pergerakan pemain, pergerakan security dan lainnya yang itu semua merupakan penerapan dari materi ini.
 
 ## Screenshot Produk
  <img src="https://github.com/Dwayne-CS/Grafkom-Kelompok-9/tree/main/screenshot/ss1.png" width="320" height="180">
